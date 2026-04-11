@@ -1,16 +1,16 @@
-## Hi there 👋
+# Fala, eu sou o Oscar 👋
 
-<!--
-**oscarads/oscarads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição de carreira para programação  
+📚 Estudando Análise e Desenvolvimento de Sistemas  
+💪 Disciplina e consistência todos os dias  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- HTML (aprendendo)
+- CSS (aprendendo)
+- JavaScript (em evolução)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Objetivo
+Conseguir estágio na área de desenvolvimento
+
+## 📫 Contato
+- LinkedIn: (colocar depois)
