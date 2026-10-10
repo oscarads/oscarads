@@ -13,4 +13,4 @@
 Conseguir estágio na área de desenvolvimento
 
 ## 📫 Contato
-- LinkedIn: (colocar depois)
+- LinkedIn:linkedin.com/in/oscar-teixeira-ab69b334b 
