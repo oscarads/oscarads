@@ -1,4 +1,4 @@
-# Fala, eu sou o Oscar 👋
+# Olá, eu sou o Oscar 👋
 
 🎯 Em transição de carreira para programação  
 📚 Estudando Análise e Desenvolvimento de Sistemas  
